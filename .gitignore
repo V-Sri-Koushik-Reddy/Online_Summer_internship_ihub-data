@@ -4,4 +4,4 @@ __pycache__/
 .DS_Store
 runs/detect/train*/
 runs/detect/predict*/
-*.pt
+
