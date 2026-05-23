@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.cache
+.DS_Store
+runs/detect/train*/
+runs/detect/predict*/
+*.pt
